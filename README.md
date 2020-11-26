@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Email](mercado.joshua.web@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Anime
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercado-joshua)](https://github.com/anuraghazra/github-readme-stats)
