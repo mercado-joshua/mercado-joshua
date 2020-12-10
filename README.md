@@ -13,13 +13,11 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercado-joshua&hide=stars,prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercado-joshua)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... CSS
 - 👯 I’m looking to collaborate on ... Tkinter
 - 🤔 I’m looking for help with ... Web Development
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Email](mercado.joshua.web@gmail.com)
+- 📫 How to reach me: ... [Email](mercado.joshua.web@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Anime
