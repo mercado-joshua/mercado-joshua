@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love Anime
 
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-### Hi, I'm Josh 👋
+### Hi there 👋, I'm Josh
 
-I'm an aspiring Python developer who is passionate about making programs with Tkinter. I do it as an hobby. creating simple programs for learning different modules and for future use. I can also do web development. Searching and customizing web components to be used in later projects. You can check out my [portfolio](https://mercado-joshua.github.io/).
+I'm an aspiring Python developer who is passionate about making programs with Tkinter. I do it as a hobby. creating simple programs for learning different modules and for future use. I can also do web development. Searching and customizing web components to be used in later projects. You can check out my [portfolio](https://mercado-joshua.github.io/).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercado-joshua)](https://github.com/anuraghazra/github-readme-stats)
