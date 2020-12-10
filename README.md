@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercado-joshua)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi, I'm Josh 👋
+
+I'm an aspiring Python developer who is passionate about making programs with Tkinter. I do it as an hobby. creating simple programs for learning different modules and for future use. I can also do web development. Searching and customizing web components to be used in later projects. You ac check out my [portfolio](https://mercado-joshua.github.io/).
