@@ -13,6 +13,17 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercado-joshua&hide=stars,prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Examples of Work
+
+<img src="https://github.com/mercado-joshua/Website__Tailwind-Two/blob/main/1a.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__Tailwind-One/blob/main/1b.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD_Practice-One/blob/main/1h.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD-One/blob/main/1g.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD-Two/blob/main/1f.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD-Three/blob/main/1e.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD-Four/blob/main/1d.JPG" width="256">
+<img src="https://github.com/mercado-joshua/Website__RWD-Five/blob/main/1c.JPG" width="256">
+
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... CSS
 - 👯 I’m looking to collaborate on ... Tkinter
