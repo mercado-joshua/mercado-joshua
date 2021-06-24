@@ -17,10 +17,11 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 
 ### Tailwind Two
 <a href="https://mercado-joshua.github.io/Website__Tailwind-Two/public/index.html" target="_blank">
+<h3>Tailwind Two</h3>
 <img src="https://github.com/mercado-joshua/Website__Tailwind-Two/blob/main/1a.JPG" width="240" height="180" border="10">
 
-### Tailwind One
 <a href="https://mercado-joshua.github.io/Website__Tailwind-One/public/index.html" target="_blank">
+<h3>Tailwind One</h3>
 <img src="https://github.com/mercado-joshua/Website__Tailwind-One/blob/main/1b.JPG" width="240" height="180" border="10">
 </a>
 
