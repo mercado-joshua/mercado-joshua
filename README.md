@@ -16,28 +16,43 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 ## Examples of Work
 
 ### Tailwind Two
+<a href="https://mercado-joshua.github.io/Website__Tailwind-Two/public/index.html">
 <img src="https://github.com/mercado-joshua/Website__Tailwind-Two/blob/main/1a.JPG" width="256">
 
 ### Tailwind One
+<a href="https://mercado-joshua.github.io/Website__Tailwind-One/public/index.html">
 <img src="https://github.com/mercado-joshua/Website__Tailwind-One/blob/main/1b.JPG" width="256">
+</a>
 
 ### Responsive Site Practice One
+<a href="https://mercado-joshua.github.io/Website__RWD_Practice-One/">
 <img src="https://github.com/mercado-joshua/Website__RWD_Practice-One/blob/main/1h.JPG" width="256">
+</a>
 
 ### Responsive Site One
+<a href="https://mercado-joshua.github.io/Website__RWD-One/">
 <img src="https://github.com/mercado-joshua/Website__RWD-One/blob/main/1g.JPG" width="256">
+</a>
 
 ### Responsive Site Two
+<a href="https://mercado-joshua.github.io/Website__RWD-Two/">
 <img src="https://github.com/mercado-joshua/Website__RWD-Two/blob/main/1f.JPG" width="256">
+</a>
 
 ### Responsive Site Three
+<a href="https://mercado-joshua.github.io/Website__RWD-Three/">
 <img src="https://github.com/mercado-joshua/Website__RWD-Three/blob/main/1e.JPG" width="256">
+</a>
 
 ### Responsive Site Four
+<a href="https://mercado-joshua.github.io/Website__RWD-Four/">
 <img src="https://github.com/mercado-joshua/Website__RWD-Four/blob/main/1d.JPG" width="256">
+</a>
 
 ### Responsive Site Five
+<a href="https://mercado-joshua.github.io/Website__RWD-Five/">
 <img src="https://github.com/mercado-joshua/Website__RWD-Five/blob/main/1c.JPG" width="256">
+</a>
 
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... CSS
