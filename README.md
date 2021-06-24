@@ -53,6 +53,7 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 <a href="https://mercado-joshua.github.io/Website__RWD-Five/" target="_blank">
 <img src="https://github.com/mercado-joshua/Website__RWD-Five/blob/main/1c.JPG" width="256">
 </a>
+<br><br>
 
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... CSS
