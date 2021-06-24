@@ -15,13 +15,28 @@ I'm an aspiring Python developer who is passionate about making programs with Tk
 
 ## Examples of Work
 
+## Tailwind Two
 <img src="https://github.com/mercado-joshua/Website__Tailwind-Two/blob/main/1a.JPG" width="256">
+
+## Tailwind One
 <img src="https://github.com/mercado-joshua/Website__Tailwind-One/blob/main/1b.JPG" width="256">
+
+## Responsive Site Practice One
 <img src="https://github.com/mercado-joshua/Website__RWD_Practice-One/blob/main/1h.JPG" width="256">
+
+## Responsive Site One
 <img src="https://github.com/mercado-joshua/Website__RWD-One/blob/main/1g.JPG" width="256">
+
+## Responsive Site Two
 <img src="https://github.com/mercado-joshua/Website__RWD-Two/blob/main/1f.JPG" width="256">
+
+## Responsive Site Three
 <img src="https://github.com/mercado-joshua/Website__RWD-Three/blob/main/1e.JPG" width="256">
+
+## Responsive Site Four
 <img src="https://github.com/mercado-joshua/Website__RWD-Four/blob/main/1d.JPG" width="256">
+
+## Responsive Site Five
 <img src="https://github.com/mercado-joshua/Website__RWD-Five/blob/main/1c.JPG" width="256">
 
 - 🔭 I’m currently working on ... Python
