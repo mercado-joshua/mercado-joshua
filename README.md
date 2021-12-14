@@ -11,6 +11,3 @@
 
 # Languages & Tools
 
-<div>
-  <img src="https://badgen.net/badge/:subject/:status/:color?icon=github">
-</div>
