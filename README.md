@@ -6,4 +6,5 @@
 <div>
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
 </div>
+
 # Languages & Tools
