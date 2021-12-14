@@ -11,5 +11,14 @@
 
 # Languages & Tools
 
-<img src="https://img.shields.io/badge/-SASS-ff69b4"/>
+<div>
+  <img src="https://img.shields.io/badge/-HTML-orange"/>
+  <img src="https://img.shields.io/badge/-CSS-blue"/>
+  <img src="https://img.shields.io/badge/-SASS-ff69b4"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-blueviolet"/>
+  <img src="https://img.shields.io/badge/-Javascript-yellow"/>
+  <img src="https://img.shields.io/badge/-Jquery-9cf"/>
+  <img src="https://img.shields.io/badge/-Gulp-ff69b4"/>
+</div>
+
 
