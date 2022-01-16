@@ -1,8 +1,4 @@
 <div>
-  <img width="48%" src="https://mercado-joshua.github.io/standard.gif">
-</div>
-<br/>
-<div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mercado-joshua&show_icons=true&theme=tokyonight">
 </div>
 <br/>
