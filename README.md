@@ -1,7 +1,5 @@
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mercado-joshua&show_icons=true&theme=tokyonight">
-  &nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
 </div>
 <br/>
 <div>
