@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Javascript-yellow"/>
   <img src="https://img.shields.io/badge/-Jquery-9cf"/>
   <img src="https://img.shields.io/badge/-Gulp-ff69b4"/>
+  <img src="https://img.shields.io/badge/-Wordpress-blue"/>
 </div>
 
 
